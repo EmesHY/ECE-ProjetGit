@@ -1,7 +1,7 @@
 #ifndef GRAPH_H_INCLUDED
 #define GRAPH_H_INCLUDED
 
-/**************************************************************
+
     Ici sont proposées 3 classes fondamentales
             Vertex (=Sommet)
             Edge (=Arête ou Arc)
